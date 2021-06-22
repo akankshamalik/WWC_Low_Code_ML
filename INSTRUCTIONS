@@ -1,6 +1,6 @@
 #INSTRUCTIONS
   
-  1. Create Azure subscription. 
+  	1. Create Azure subscription. 
 	2. https://portal.azure.com/ you should be directed here. If you already have a subscription, head straight here.
 	3. Create a machine learning resource. 
 		a. Search Machine Learning
@@ -16,12 +16,7 @@
 		h. Hit review and create!
 	This will begin to deploy the resources – should take approx 5mins. Click "go to resource" once deployed.
 	
-	
-	
-	
-	
-	
-	
+
 	HIT THE LAUNCH STUDIO!
 	
 	ML Studio will open in a new tab
@@ -67,5 +62,5 @@ We now have machines and data ready to go. This is all we need to create ML mode
 
 First we are going to set up an AutoML run. This can run in the background for us.
 	1. Pick AutoML from the panel on the left.
-	2. Select the NYC Taxi dataset that should pre-populate.
+	2. Select the AirBnB dataset that should pre-populate.
 	3. 
