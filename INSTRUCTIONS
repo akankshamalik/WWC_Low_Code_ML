@@ -11,7 +11,7 @@
 		c. Name your workspace
 		d. Select "Australia East" as your region
 		e. Click create new storage account and give it a name. Leave the replication as Locally Redundant Storage (LRS)
-		f. Key Vault and Application Insights will prefill themselves once you create a storage account
+		f. Key Vault and Application Insights will prefill themselves once you name a storage account
 		g. Leave container registery as None
 		h. Hit review and create!
 	This will begin to deploy the resources – should take approx 5mins. Click "go to resource" once deployed.
